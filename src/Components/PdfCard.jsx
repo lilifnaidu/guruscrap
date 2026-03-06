@@ -1,5 +1,5 @@
 const PdfDocx = ({ title, description, file }) => {
-  console.log(title,description,file);
+
   
   return (
     <div className="bg-white rounded-xl shadow-md p-6 hover:shadow-lg transition">

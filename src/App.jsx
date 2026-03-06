@@ -1,4 +1,4 @@
-import PdfDocx from "./Components/pdfCard"
+import PdfDocx from './Components/PdfCard'
 import pdfs from "./Components/data/pdfData"
 function App() {
   return (
